@@ -1,0 +1,220 @@
+,id,gastritis_subtypeB,gastritis_subtypeA,title,source_name_ch1,GSE,Group
+1,GSM1341860,0.408437333,0.44526188,chronic gastritis tissue sample 1,inflammation,GSE55696,Gastritis
+2,GSM1341861,0.480267654,0.337183348,chronic gastritis tissue sample 2,inflammation,GSE55696,Gastritis
+3,GSM1341862,0.565037147,0.364605597,chronic gastritis tissue sample 3,inflammation,GSE55696,Gastritis
+4,GSM1341863,0.428470289,0.396812028,chronic gastritis tissue sample 4,inflammation,GSE55696,Gastritis
+5,GSM1341864,0.632502898,0.188209434,chronic gastritis tissue sample 5,inflammation,GSE55696,Gastritis
+6,GSM1341865,0.562193888,0.399347943,chronic gastritis tissue sample 6,inflammation,GSE55696,Gastritis
+7,GSM1341866,0.636951137,0.198893595,chronic gastritis tissue sample 7,inflammation,GSE55696,Gastritis
+8,GSM1341867,0.570207256,0.197255118,chronic gastritis tissue sample 8,inflammation,GSE55696,Gastritis
+9,GSM1341868,0.484017805,0.216168428,chronic gastritis tissue sample 9,inflammation,GSE55696,Gastritis
+10,GSM1341869,0.433593832,0.571276142,chronic gastritis tissue sample 10,inflammation,GSE55696,Gastritis
+11,GSM1341870,0.378278132,0.288663906,chronic gastritis tissue sample 11,inflammation,GSE55696,Gastritis
+12,GSM1341871,0.431309446,0.257832935,chronic gastritis tissue sample 12,inflammation,GSE55696,Gastritis
+13,GSM1341872,0.510576638,0.367586147,chronic gastritis tissue sample 13,inflammation,GSE55696,Gastritis
+14,GSM1341873,0.397787984,0.458536351,chronic gastritis tissue sample 14,inflammation,GSE55696,Gastritis
+15,GSM1341874,0.452078475,0.331009692,chronic gastritis tissue sample 15,inflammation,GSE55696,Gastritis
+16,GSM1341875,0.415815734,0.418994541,chronic gastritis tissue sample 16,inflammation,GSE55696,Gastritis
+17,GSM1341876,0.345930636,0.393523079,chronic gastritis tissue sample 17,inflammation,GSE55696,Gastritis
+18,GSM1341877,0.441332858,0.342886923,chronic gastritis tissue sample 18,inflammation,GSE55696,Gastritis
+19,GSM1341878,0.58741514,0.214153153,chronic gastritis tissue sample 19,inflammation,GSE55696,Gastritis
+20,GSM1341879,0.749004017,0.015958314,LGIN tissue sample 1,LGD,GSE55696,LGN
+21,GSM1341880,0.740704535,-0.043179312,LGIN tissue sample 2,LGD,GSE55696,LGN
+22,GSM1341881,0.706029647,0.122702288,LGIN tissue sample 3,LGD,GSE55696,LGN
+23,GSM1341882,0.640891419,0.10171672,LGIN tissue sample 4,LGD,GSE55696,LGN
+24,GSM1341883,0.445124642,0.461798741,LGIN tissue sample 5,LGD,GSE55696,LGN
+25,GSM1341884,0.495691259,0.337540033,LGIN tissue sample 6,LGD,GSE55696,LGN
+26,GSM1341885,0.489355531,0.518346501,LGIN tissue sample 7,LGD,GSE55696,LGN
+27,GSM1341886,0.437600021,0.253543567,LGIN tissue sample 8,LGD,GSE55696,LGN
+28,GSM1341887,0.779925768,-0.059465334,LGIN tissue sample 9,LGD,GSE55696,LGN
+29,GSM1341888,0.692458541,0.068012574,LGIN tissue sample 10,LGD,GSE55696,LGN
+30,GSM1341889,0.418775635,0.359171645,LGIN tissue sample 11,LGD,GSE55696,LGN
+31,GSM1341890,0.680563678,0.062670671,LGIN tissue sample 12,LGD,GSE55696,LGN
+32,GSM1341891,0.693795862,-0.004663977,LGIN tissue sample 13,LGD,GSE55696,LGN
+33,GSM1341892,0.610122205,0.077367716,LGIN tissue sample 14,LGD,GSE55696,LGN
+34,GSM1341893,0.410804605,0.391741648,LGIN tissue sample 15,LGD,GSE55696,LGN
+35,GSM1341894,0.687350358,0.177309685,LGIN tissue sample 16,LGD,GSE55696,LGN
+36,GSM1341895,0.587846177,0.145432922,LGIN tissue sample 17,LGD,GSE55696,LGN
+37,GSM1341896,0.584998684,0.166770163,LGIN tissue sample 18,LGD,GSE55696,LGN
+38,GSM1341897,0.603554363,0.134064699,LGIN tissue sample 19,LGD,GSE55696,LGN
+39,GSM1341898,0.422647074,0.615060538,HGIN tissue sample 1,HGD,GSE55696,HGN
+40,GSM1341899,0.422450603,0.21285955,HGIN tissue sample 2,HGD,GSE55696,HGN
+41,GSM1341900,0.598092219,-0.070587795,HGIN tissue sample 3,HGD,GSE55696,HGN
+42,GSM1341901,0.589858561,0.45334242,HGIN tissue sample 4,HGD,GSE55696,HGN
+43,GSM1341902,0.351625588,0.561903191,HGIN tissue sample 5,HGD,GSE55696,HGN
+44,GSM1341903,0.085696255,0.757410505,HGIN tissue sample 6,HGD,GSE55696,HGN
+45,GSM1341904,0.507388696,0.346592727,HGIN tissue sample 7,HGD,GSE55696,HGN
+46,GSM1341905,0.617590089,0.118349238,HGIN tissue sample 8,HGD,GSE55696,HGN
+47,GSM1341906,0.621106927,0.089577912,HGIN tissue sample 9,HGD,GSE55696,HGN
+48,GSM1341907,0.654359903,0.043012613,HGIN tissue sample 10,HGD,GSE55696,HGN
+49,GSM1341908,0.628899867,-0.04533605,HGIN tissue sample 11,HGD,GSE55696,HGN
+50,GSM1341909,0.741764393,-0.089018037,HGIN tissue sample 12,HGD,GSE55696,HGN
+51,GSM1341910,0.661725337,0.096284985,HGIN tissue sample 13,HGD,GSE55696,HGN
+52,GSM1341911,0.652134606,0.158544225,HGIN tissue sample 14,HGD,GSE55696,HGN
+53,GSM1341912,0.636055438,0.022500197,HGIN tissue sample 15,HGD,GSE55696,HGN
+54,GSM1341913,0.637514487,-0.043838788,HGIN tissue sample 16,HGD,GSE55696,HGN
+55,GSM1341914,0.587735344,-0.016429091,HGIN tissue sample 17,HGD,GSE55696,HGN
+56,GSM1341915,0.700254685,0.029629743,HGIN tissue sample 18,HGD,GSE55696,HGN
+57,GSM1341916,0.694559073,0.030338095,HGIN tissue sample 19,HGD,GSE55696,HGN
+58,GSM1341917,0.643325696,0.268860245,HGIN tissue sample 20,HGD,GSE55696,HGN
+59,GSM1341918,0.691664955,-0.039587967,EGC tissue sample 1,EGC,GSE55696,EGC
+60,GSM1341919,0.728389395,-0.010245379,EGC tissue sample 2,EGC,GSE55696,EGC
+61,GSM1341920,0.612443445,0.207234514,EGC tissue sample 3,EGC,GSE55696,EGC
+62,GSM1341921,0.294246683,0.432604198,EGC tissue sample 4,EGC,GSE55696,EGC
+63,GSM1341922,0.654904591,0.148405346,EGC tissue sample 5,EGC,GSE55696,EGC
+64,GSM1341923,0.07242645,0.8516107,EGC tissue sample 6,EGC,GSE55696,EGC
+65,GSM1341924,0.619831971,0.228552188,EGC tissue sample 7,EGC,GSE55696,EGC
+66,GSM1341925,0.742957308,-0.101379968,EGC tissue sample 8,EGC,GSE55696,EGC
+67,GSM1341926,0.646082116,0.059441597,EGC tissue sample 9,EGC,GSE55696,EGC
+68,GSM1341927,0.510750924,0.329461084,EGC tissue sample 10,EGC,GSE55696,EGC
+69,GSM1341928,0.722654236,0.018841512,EGC tissue sample 11,EGC,GSE55696,EGC
+70,GSM1341929,0.310754319,0.544181204,EGC tissue sample 12,EGC,GSE55696,EGC
+71,GSM1341930,0.468238604,0.260353788,EGC tissue sample 13,EGC,GSE55696,EGC
+72,GSM1341931,0.555846675,0.272659876,EGC tissue sample 14,EGC,GSE55696,EGC
+73,GSM1341932,0.481634823,0.464396049,EGC tissue sample 15,EGC,GSE55696,EGC
+74,GSM1341933,0.463858871,0.446980054,EGC tissue sample 16,EGC,GSE55696,EGC
+75,GSM1341934,0.754270276,-0.117161921,EGC tissue sample 17,EGC,GSE55696,EGC
+76,GSM1341935,0.302254707,0.445728167,EGC tissue sample 18,EGC,GSE55696,EGC
+77,GSM1341936,0.58131971,0.286698266,EGC tissue sample 19,EGC,GSE55696,EGC
+78,GSM1479654,0.36475829,0.31550973,Bhutan_normal_97,gastric epithelium in Bhutan Hp-negative normal epithelium,GSE60427,normal
+79,GSM1479655,0.533959535,0.304310632,Bhutan_normal_116,gastric epithelium in Bhutan Hp-negative normal epithelium,GSE60427,normal
+80,GSM1479656,0.266000048,0.583672467,Bhutan_normal_68,gastric epithelium in Bhutan Hp-negative normal epithelium,GSE60427,normal
+81,GSM1479657,0.576882265,0.238891924,Bhutan_normal_160,gastric epithelium in Bhutan Hp-negative normal epithelium,GSE60427,normal
+82,GSM1479658,0.305906522,0.521075055,Bhutan_mild_108,gastric epithelium in Bhutan Hp-positive mild gastritis epithelium,GSE60427,mild
+83,GSM1479659,0.69838791,0.060911748,Bhutan_mild_143,gastric epithelium in Bhutan Hp-positive mild gastritis epithelium,GSE60427,mild
+84,GSM1479660,0.584099693,0.296226046,Bhutan_mild_146,gastric epithelium in Bhutan Hp-positive mild gastritis epithelium,GSE60427,mild
+85,GSM1479661,0.437375831,0.460978791,Bhutan_mild_140,gastric epithelium in Bhutan Hp-positive mild gastritis epithelium,GSE60427,mild
+86,GSM1479662,0.435157616,0.441134291,Bhutan_severe_32,gastric epithelium in Bhutan Hp-positive severe gastritis epithelium,GSE60427,severe
+87,GSM1479663,0.192336787,0.444834385,Bhutan_severe_74,gastric epithelium in Bhutan Hp-positive severe gastritis epithelium,GSE60427,severe
+88,GSM1479664,0.335193241,0.495394614,Bhutan_severe_36,gastric epithelium in Bhutan Hp-positive severe gastritis epithelium,GSE60427,severe
+89,GSM1479665,0.63185615,0.078058529,Bhutan_severe_77,gastric epithelium in Bhutan Hp-positive severe gastritis epithelium,GSE60427,severe
+90,GSM1479666,0.658390536,0.15013272,Bhutan_IM_186,gastric epithelium in Bhutan Hp-positive IM gastritis epithelium,GSE60427,IM
+91,GSM1479667,0.815615181,-0.015288917,Bhutan_IM_55,gastric epithelium in Bhutan Hp-positive IM gastritis epithelium,GSE60427,IM
+92,GSM1479668,0.588342993,0.270711004,Bhutan_IM_164,gastric epithelium in Bhutan Hp-positive IM gastritis epithelium,GSE60427,IM
+93,GSM1479669,0.753966312,0.047077136,Bhutan_IM_181,gastric epithelium in Bhutan Hp-positive IM gastritis epithelium,GSE60427,IM
+94,GSM1479670,0.332388755,0.361756406,DR_normal_1,gastric epithelium in DR Hp-negative normal epithelium,GSE60427,normal
+95,GSM1479671,0.510480609,0.219976437,Dominican_normal_68,gastric epithelium in DR Hp-negative normal epithelium,GSE60427,normal
+96,GSM1479672,0.599090579,0.136741984,Dominican_normal_70,gastric epithelium in DR Hp-negative normal epithelium,GSE60427,normal
+97,GSM1479673,0.366446155,0.321985934,Dominican_normal_80,gastric epithelium in DR Hp-negative normal epithelium,GSE60427,normal
+98,GSM1479674,0.336354549,0.458940617,Dominican_mild_148,gastric epithelium in DR Hp-positive mild gastritis epithelium,GSE60427,mild
+99,GSM1479675,0.499303387,0.45745218,Dominican_mild_73,gastric epithelium in DR Hp-positive mild gastritis epithelium,GSE60427,mild
+100,GSM1479676,0.454921676,0.166330097,Dominican_mild_135,gastric epithelium in DR Hp-positive mild gastritis epithelium,GSE60427,mild
+101,GSM1479677,0.643325893,0.144868612,Dominican_mild_131,gastric epithelium in DR Hp-positive mild gastritis epithelium,GSE60427,mild
+102,GSM1479678,0.685017968,0.36858644,Dominican_severe_128,gastric epithelium in DR Hp-positive severe gastritis epithelium,GSE60427,severe
+103,GSM1479679,0.531120451,0.292565149,Dominican_severe_49,gastric epithelium in DR Hp-positive severe gastritis epithelium,GSE60427,severe
+104,GSM1479680,0.56912669,0.08322939,Dominican_severe_132,gastric epithelium in DR Hp-positive severe gastritis epithelium,GSE60427,severe
+105,GSM1479681,0.684441571,0.198806044,Dominican_severe_142,gastric epithelium in DR Hp-positive severe gastritis epithelium,GSE60427,severe
+106,GSM1479682,0.801932647,-0.034843297,Dominican_IM_116,gastric epithelium in DR Hp-positive IM gastritis epithelium,GSE60427,IM
+107,GSM1479683,0.718092334,0.097593509,Dominican_IM_138,gastric epithelium in DR Hp-positive IM gastritis epithelium,GSE60427,IM
+108,GSM1479684,0.752661416,0.034329109,Dominican_IM_109,gastric epithelium in DR Hp-positive IM gastritis epithelium,GSE60427,IM
+109,GSM1479685,0.74122624,0.065935389,Dominican_IM_123,gastric epithelium in DR Hp-positive IM gastritis epithelium,GSE60427,IM
+110,GSM1159807,0.40813519,0.261674257,control rep1,"human stomach biopsy, control",GSE60662,normal
+111,GSM1159808,0.461201389,0.342348029,control rep2,"human stomach biopsy, control",GSE60662,normal
+112,GSM1159809,0.388375732,0.326912678,control rep3,"human stomach biopsy, control",GSE60662,normal
+113,GSM1159810,0.471613411,0.258062007,control rep4,"human stomach biopsy, control",GSE60662,normal
+114,GSM1159811,0.419117026,0.509432658,mild gastritis rep1,"human stomach biopsy, mild gastritis",GSE60662,mild
+115,GSM1159812,0.407695144,0.567775385,mild gastritis rep2,"human stomach biopsy, mild gastritis",GSE60662,mild
+116,GSM1159813,0.439172437,0.514624809,mild gastritis rep3,"human stomach biopsy, mild gastritis",GSE60662,mild
+117,GSM1159814,0.48642673,0.564964374,mild gastritis rep4,"human stomach biopsy, mild gastritis",GSE60662,mild
+118,GSM1159815,0.666963016,0.182621065,severe gastritis rep1,"human stomach biopsy, severe gastritis",GSE60662,severe
+119,GSM1159816,0.575754884,0.336889356,severe gastritis rep2,"human stomach biopsy, severe gastritis",GSE60662,severe
+120,GSM1159817,0.575597065,0.286233052,severe gastritis rep3,"human stomach biopsy, severe gastritis",GSE60662,severe
+121,GSM1159818,0.567029614,0.230653563,severe gastritis rep4,"human stomach biopsy, severe gastritis",GSE60662,severe
+122,GSM1159819,0.547762904,0.074371087,intestinal metaplasia rep1,"human stomach biopsy, intestinal metaplasia",GSE60662,IM
+123,GSM1159820,0.756907845,0.011370987,intestinal metaplasia rep2,"human stomach biopsy, intestinal metaplasia",GSE60662,IM
+124,GSM1159821,0.826956383,0.044689316,intestinal metaplasia rep3,"human stomach biopsy, intestinal metaplasia",GSE60662,IM
+125,GSM1159822,0.755608123,-0.030436538,intestinal metaplasia rep4,"human stomach biopsy, intestinal metaplasia",GSE60662,IM
+126,GSM3754774,0.386903798,0.561110051,B0294-1: Gastritis,Gastritis,GSE130823,Gastritis
+127,GSM3754775,0.79247756,-0.076013948,B0294-2: GastricLowGradeIntraepithelialNeoplasia,GastricLowGradeIntraepithelialNeoplasia,GSE130823,LGN
+128,GSM3754776,0.652005362,0.099605559,B0331-1: Gastritis,Gastritis,GSE130823,Gastritis
+129,GSM3754777,0.793742615,-0.104262883,B0331-2: GastricLowGradeIntraepithelialNeoplasia,GastricLowGradeIntraepithelialNeoplasia,GSE130823,LGN
+130,GSM3754778,0.790471006,-0.044863179,B0344-1: Gastritis,Gastritis,GSE130823,Gastritis
+131,GSM3754779,0.716976665,0.026538915,B0344-2: GastricLowGradeIntraepithelialNeoplasia,GastricLowGradeIntraepithelialNeoplasia,GSE130823,LGN
+132,GSM3754780,0.460129018,0.484297347,B0358-1: Gastritis,Gastritis,GSE130823,Gastritis
+133,GSM3754781,0.72906318,-0.000519153,B0358-2: GastricLowGradeIntraepithelialNeoplasia,GastricLowGradeIntraepithelialNeoplasia,GSE130823,LGN
+134,GSM3754782,0.626360672,0.202095936,B1047-1: Gastritis,Gastritis,GSE130823,Gastritis
+135,GSM3754783,0.776959871,-0.105770274,B1047-2: GastricLowGradeIntraepithelialNeoplasia,GastricLowGradeIntraepithelialNeoplasia,GSE130823,LGN
+136,GSM3754784,0.135176063,0.655208724,B1064-1: Gastritis,Gastritis,GSE130823,Gastritis
+137,GSM3754785,0.75616277,-0.047917544,B1064-2: GastricLowGradeIntraepithelialNeoplasia,GastricLowGradeIntraepithelialNeoplasia,GSE130823,LGN
+138,GSM3754786,0.130064183,0.666194508,B1115-1: Gastritis,Gastritis,GSE130823,Gastritis
+139,GSM3754787,0.59033919,0.1594215,B1115-2: GastricLowGradeIntraepithelialNeoplasia,GastricLowGradeIntraepithelialNeoplasia,GSE130823,LGN
+140,GSM3754788,0.458696109,0.232812555,B1170-1: Gastritis,Gastritis,GSE130823,Gastritis
+141,GSM3754789,0.626941899,0.007387921,B1170-2: GastricLowGradeIntraepithelialNeoplasia,GastricLowGradeIntraepithelialNeoplasia,GSE130823,LGN
+142,GSM3754790,0.330111221,0.585025077,B1364-1: Gastritis,Gastritis,GSE130823,Gastritis
+143,GSM3754791,0.700975436,0.069930189,B1364-2: GastricLowGradeIntraepithelialNeoplasia,GastricLowGradeIntraepithelialNeoplasia,GSE130823,LGN
+144,GSM3754792,0.203740233,0.640518851,B1366-1: Gastritis,Gastritis,GSE130823,Gastritis
+145,GSM3754793,0.366145417,0.327687533,B1366-2: GastricLowGradeIntraepithelialNeoplasia,GastricLowGradeIntraepithelialNeoplasia,GSE130823,LGN
+146,GSM3754794,0.588342321,0.385793157,B1489-1: Gastritis,Gastritis,GSE130823,Gastritis
+147,GSM3754795,0.767070897,-0.053186974,B1489-2: GastricLowGradeIntraepithelialNeoplasia,GastricLowGradeIntraepithelialNeoplasia,GSE130823,LGN
+148,GSM3754796,0.135043819,0.727263498,B1505-1: Gastritis,Gastritis,GSE130823,Gastritis
+149,GSM3754797,0.69684053,0.062805544,B1505-2: GastricLowGradeIntraepithelialNeoplasia,GastricLowGradeIntraepithelialNeoplasia,GSE130823,LGN
+150,GSM3754798,0.108977154,0.687947628,B1666-1: Gastritis,Gastritis,GSE130823,Gastritis
+151,GSM3754799,0.798925677,-0.054326657,B1666-2: GastricLowGradeIntraepithelialNeoplasia,GastricLowGradeIntraepithelialNeoplasia,GSE130823,LGN
+152,GSM3754800,0.235850786,0.616809364,B1834-1: Gastritis,Gastritis,GSE130823,Gastritis
+153,GSM3754801,0.757858226,-0.055052187,B1834-2: GastricLowGradeIntraepithelialNeoplasia,GastricLowGradeIntraepithelialNeoplasia,GSE130823,LGN
+154,GSM3754802,0.422982105,0.545873486,B1514-1: Gastritis,Gastritis,GSE130823,Gastritis
+155,GSM3754803,0.751855977,-0.028478967,B1514-2: GastricLowGradeIntraepithelialNeoplasia,GastricLowGradeIntraepithelialNeoplasia,GSE130823,LGN
+156,GSM3754804,0.586614077,0.169534138,B2330-1: Gastritis,Gastritis,GSE130823,Gastritis
+157,GSM3754805,0.628802399,0.011331478,B2330-2: GastricLowGradeIntraepithelialNeoplasia,GastricLowGradeIntraepithelialNeoplasia,GSE130823,LGN
+158,GSM3754806,0.271557961,0.6475803,B1476-1: Gastritis,Gastritis,GSE130823,Gastritis
+159,GSM3754807,0.730522983,-0.027975789,B1476-2: GastricLowGradeIntraepithelialNeoplasia,GastricLowGradeIntraepithelialNeoplasia,GSE130823,LGN
+160,GSM3754808,0.42180736,0.401380509,B0216-1: Gastritis,Gastritis,GSE130823,Gastritis
+161,GSM3754809,0.323348911,0.508477892,B0216-2: GastricHighGradeIntraepithelialNeoplasia,GastricHighGradeIntraepithelialNeoplasia,GSE130823,HGN
+162,GSM3754810,0.331032209,0.62193025,B0249-1: Gastritis,Gastritis,GSE130823,Gastritis
+163,GSM3754811,0.730233281,-0.035336539,B0249-2: GastricHighGradeIntraepithelialNeoplasia,GastricHighGradeIntraepithelialNeoplasia,GSE130823,HGN
+164,GSM3754812,0.753207286,0.013312191,B0362-1: Gastritis,Gastritis,GSE130823,Gastritis
+165,GSM3754813,0.497856682,0.198558701,B0362-2: GastricHighGradeIntraepithelialNeoplasia,GastricHighGradeIntraepithelialNeoplasia,GSE130823,HGN
+166,GSM3754814,0.137488237,0.665979816,B0420-1: Gastritis,Gastritis,GSE130823,Gastritis
+167,GSM3754815,0.739246106,-0.101255146,B0420-2: GastricHighGradeIntraepithelialNeoplasia,GastricHighGradeIntraepithelialNeoplasia,GSE130823,HGN
+168,GSM3754816,0.422223627,0.52662163,B1025-1: Gastritis,Gastritis,GSE130823,Gastritis
+169,GSM3754817,0.714418117,-0.036379912,B1025-2: GastricHighGradeIntraepithelialNeoplasia,GastricHighGradeIntraepithelialNeoplasia,GSE130823,HGN
+170,GSM3754818,0.301990835,0.545469013,B1168-1: Gastritis,Gastritis,GSE130823,Gastritis
+171,GSM3754819,0.740947054,-0.107599077,B1168-2: GastricHighGradeIntraepithelialNeoplasia,GastricHighGradeIntraepithelialNeoplasia,GSE130823,HGN
+172,GSM3754820,0.144071793,0.673393636,B1244-1: Gastritis,Gastritis,GSE130823,Gastritis
+173,GSM3754821,0.685371257,-0.068611407,B1244-2: GastricHighGradeIntraepithelialNeoplasia,GastricHighGradeIntraepithelialNeoplasia,GSE130823,HGN
+174,GSM3754822,0.175977325,0.669177694,B1322-1: Gastritis,Gastritis,GSE130823,Gastritis
+175,GSM3754823,0.675542863,0.274979355,B1322-2: GastricHighGradeIntraepithelialNeoplasia,GastricHighGradeIntraepithelialNeoplasia,GSE130823,HGN
+176,GSM3754824,0.284814138,0.550833954,B1559-1: Gastritis,Gastritis,GSE130823,Gastritis
+177,GSM3754825,0.65412936,0.015251886,B1559-2: GastricHighGradeIntraepithelialNeoplasia,GastricHighGradeIntraepithelialNeoplasia,GSE130823,HGN
+178,GSM3754826,0.38042627,0.469622532,B1632-1: Gastritis,Gastritis,GSE130823,Gastritis
+179,GSM3754827,0.768812161,-0.046171427,B1632-2: GastricHighGradeIntraepithelialNeoplasia,GastricHighGradeIntraepithelialNeoplasia,GSE130823,HGN
+180,GSM3754828,0.450704655,0.412999154,B1682-1: Gastritis,Gastritis,GSE130823,Gastritis
+181,GSM3754829,0.711980365,0.014152268,B1682-2: GastricHighGradeIntraepithelialNeoplasia,GastricHighGradeIntraepithelialNeoplasia,GSE130823,HGN
+182,GSM3754830,0.314429588,0.609095888,B1703-1: Gastritis,Gastritis,GSE130823,Gastritis
+183,GSM3754831,0.481823208,0.383118151,B1703-2: GastricHighGradeIntraepithelialNeoplasia,GastricHighGradeIntraepithelialNeoplasia,GSE130823,HGN
+184,GSM3754832,0.651909531,0.367646737,Q0465-1: Gastritis,Gastritis,GSE130823,Gastritis
+185,GSM3754833,0.469282736,0.459261854,Q0465-2: GastricHighGradeIntraepithelialNeoplasia,GastricHighGradeIntraepithelialNeoplasia,GSE130823,HGN
+186,GSM3754834,0.670557088,0.154955282,Q0469-1: Gastritis,Gastritis,GSE130823,Gastritis
+187,GSM3754835,0.779887643,-0.128387855,Q0469-2: GastricHighGradeIntraepithelialNeoplasia,GastricHighGradeIntraepithelialNeoplasia,GSE130823,HGN
+188,GSM3754836,0.188539936,0.634123072,B1019-1: Gastritis,Gastritis,GSE130823,Gastritis
+189,GSM3754837,0.217935598,0.652107718,B1019-2: IntestinalGastricCancer,IntestinalGastricCancer,GSE130823,GC
+190,GSM3754838,0.625099004,0.227767608,B1090-1: Gastritis,Gastritis,GSE130823,Gastritis
+191,GSM3754839,0.790307594,-0.1483893,B1090-2: IntestinalGastricCancer,IntestinalGastricCancer,GSE130823,GC
+192,GSM3754840,0.574682862,0.27178853,B1272-1: Gastritis,Gastritis,GSE130823,Gastritis
+193,GSM3754841,0.61497228,0.167936896,B1272-2: IntestinalGastricCancer,IntestinalGastricCancer,GSE130823,GC
+194,GSM3754842,0.137100831,0.659470827,B1326-1: Gastritis,Gastritis,GSE130823,Gastritis
+195,GSM3754843,0.500686367,0.342737558,B1326-2: IntestinalGastricCancer,IntestinalGastricCancer,GSE130823,GC
+196,GSM3754844,0.638250509,0.186666468,Q0423-1: Gastritis,Gastritis,GSE130823,Gastritis
+197,GSM3754845,0.733585414,0.033653519,Q0423-2: IntestinalGastricCancer,IntestinalGastricCancer,GSE130823,GC
+198,GSM3754846,0.710825896,0.144241399,Q0438-1: Gastritis,Gastritis,GSE130823,Gastritis
+199,GSM3754847,0.586993114,0.403790159,Q0438-2: IntestinalGastricCancer,IntestinalGastricCancer,GSE130823,GC
+200,GSM3754848,0.723527199,-0.108605823,Q0452-1: Gastritis,Gastritis,GSE130823,Gastritis
+201,GSM3754849,0.505979565,0.15347806,Q0452-2: IntestinalGastricCancer,IntestinalGastricCancer,GSE130823,GC
+202,GSM3754850,0.72801742,-0.136489706,Q0479-1: Gastritis,Gastritis,GSE130823,Gastritis
+203,GSM3754851,0.717840741,0.080146147,Q0479-2: IntestinalGastricCancer,IntestinalGastricCancer,GSE130823,GC
+204,GSM3754852,0.343372215,0.490764083,Q0500-1: Gastritis,Gastritis,GSE130823,Gastritis
+205,GSM3754853,0.72440943,-0.064657556,Q0500-2: IntestinalGastricCancer,IntestinalGastricCancer,GSE130823,GC
+206,GSM3754854,0.720047558,0.036817011,Q0514-1: Gastritis,Gastritis,GSE130823,Gastritis
+207,GSM3754855,0.656566574,0.130419852,Q0514-2: IntestinalGastricCancer,IntestinalGastricCancer,GSE130823,GC
+208,GSM3754856,0.486195153,0.533100814,B2944-1: Gastritis,Gastritis,GSE130823,Gastritis
+209,GSM3754857,0.636604361,0.341668987,B2944-2: IntestinalGastricCancer,IntestinalGastricCancer,GSE130823,GC
+210,GSM3754858,0.21505435,0.622490362,B2809-1: Gastritis,Gastritis,GSE130823,Gastritis
+211,GSM3754859,0.558619157,0.123481947,B2809-2: IntestinalGastricCancer,IntestinalGastricCancer,GSE130823,GC
+212,GSM3754860,0.739941581,0.003916048,B2516-1: Gastritis,Gastritis,GSE130823,Gastritis
+213,GSM3754861,0.636702151,0.203954791,B2516-2: IntestinalGastricCancer,IntestinalGastricCancer,GSE130823,GC
+214,GSM3754862,0.261747355,0.557157315,B2920-1: Gastritis,Gastritis,GSE130823,Gastritis
+215,GSM3754863,0.700462869,-0.016414831,B2920-2: IntestinalGastricCancer,IntestinalGastricCancer,GSE130823,GC
+216,GSM3754864,0.143114766,0.715269215,B2461-1: Gastritis,Gastritis,GSE130823,Gastritis
+217,GSM3754865,0.735695107,0.29137058,B2461-2: IntestinalGastricCancer,IntestinalGastricCancer,GSE130823,GC
+218,GSM3754866,0.78481694,-0.067816196,B2524-1: Gastritis,Gastritis,GSE130823,Gastritis
+219,GSM3754867,0.710984262,0.040396443,B2524-2: IntestinalGastricCancer,IntestinalGastricCancer,GSE130823,GC
