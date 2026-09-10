@@ -1,0 +1,1005 @@
+direction,database,pathway,nominal_sig,FDR_sig,classification
+A_higher,GO_BP,L-amino acid metabolic process,TRUE,TRUE,Concordant
+A_higher,GO_BP,Peyer's patch development,TRUE,TRUE,Concordant
+A_higher,GO_BP,acid secretion,TRUE,TRUE,Concordant
+A_higher,GO_BP,adenylate cyclase-modulating G protein-coupled receptor signaling pathway,TRUE,TRUE,Concordant
+A_higher,GO_BP,amide transport,TRUE,TRUE,Concordant
+A_higher,GO_BP,axonogenesis,TRUE,TRUE,Concordant
+A_higher,GO_BP,"blood coagulation, fibrin clot formation",TRUE,TRUE,Concordant
+A_higher,GO_BP,cellular response to BMP stimulus,TRUE,TRUE,Concordant
+A_higher,GO_BP,cellular response to cadmium ion,TRUE,TRUE,Concordant
+A_higher,GO_BP,cellular response to copper ion,TRUE,TRUE,Concordant
+A_higher,GO_BP,cellular response to metal ion,TRUE,TRUE,Concordant
+A_higher,GO_BP,cellular response to xenobiotic stimulus,TRUE,TRUE,Concordant
+A_higher,GO_BP,cellular response to zinc ion,TRUE,TRUE,Concordant
+A_higher,GO_BP,detoxification,TRUE,TRUE,Concordant
+A_higher,GO_BP,detoxification of copper ion,TRUE,TRUE,Concordant
+A_higher,GO_BP,detoxification of inorganic compound,TRUE,TRUE,Concordant
+A_higher,GO_BP,digestion,TRUE,FALSE,Nominal-only
+A_higher,GO_BP,digestive system development,TRUE,TRUE,Concordant
+A_higher,GO_BP,ear development,TRUE,TRUE,Concordant
+A_higher,GO_BP,ear morphogenesis,TRUE,TRUE,Concordant
+A_higher,GO_BP,fibrinolysis,TRUE,TRUE,Concordant
+A_higher,GO_BP,gastric acid secretion,TRUE,TRUE,Concordant
+A_higher,GO_BP,glial cell-derived neurotrophic factor receptor signaling pathway,TRUE,TRUE,Concordant
+A_higher,GO_BP,glomerular basement membrane development,TRUE,TRUE,Concordant
+A_higher,GO_BP,glycoprotein biosynthetic process,TRUE,TRUE,Concordant
+A_higher,GO_BP,heart contraction,TRUE,TRUE,Concordant
+A_higher,GO_BP,heart process,TRUE,TRUE,Concordant
+A_higher,GO_BP,hormone secretion,TRUE,TRUE,Concordant
+A_higher,GO_BP,hormone transport,TRUE,TRUE,Concordant
+A_higher,GO_BP,import across plasma membrane,TRUE,TRUE,Concordant
+A_higher,GO_BP,inner ear development,TRUE,TRUE,Concordant
+A_higher,GO_BP,inner ear morphogenesis,TRUE,TRUE,Concordant
+A_higher,GO_BP,inorganic cation import across plasma membrane,TRUE,TRUE,Concordant
+A_higher,GO_BP,inorganic ion import across plasma membrane,TRUE,TRUE,Concordant
+A_higher,GO_BP,intracellular zinc ion homeostasis,TRUE,TRUE,Concordant
+A_higher,GO_BP,kidney development,TRUE,TRUE,Concordant
+A_higher,GO_BP,kidney epithelium development,TRUE,TRUE,Concordant
+A_higher,GO_BP,modified amino acid metabolic process,TRUE,TRUE,Concordant
+A_higher,GO_BP,mucosa-associated lymphoid tissue development,TRUE,TRUE,Concordant
+A_higher,GO_BP,muscle cell differentiation,TRUE,TRUE,Concordant
+A_higher,GO_BP,muscle contraction,TRUE,TRUE,Concordant
+A_higher,GO_BP,muscle system process,TRUE,TRUE,Concordant
+A_higher,GO_BP,negative regulation of blood pressure,TRUE,TRUE,Concordant
+A_higher,GO_BP,negative regulation of insulin secretion,TRUE,TRUE,Concordant
+A_higher,GO_BP,negative regulation of peptide hormone secretion,TRUE,TRUE,Concordant
+A_higher,GO_BP,negative regulation of peptide secretion,FALSE,TRUE,FDR-only
+A_higher,GO_BP,nephron development,TRUE,TRUE,Concordant
+A_higher,GO_BP,peptide hormone secretion,TRUE,TRUE,Concordant
+A_higher,GO_BP,peptide secretion,TRUE,TRUE,Concordant
+A_higher,GO_BP,peptide transport,TRUE,TRUE,Concordant
+A_higher,GO_BP,positive regulation of lipid metabolic process,TRUE,TRUE,Concordant
+A_higher,GO_BP,potassium ion homeostasis,TRUE,TRUE,Concordant
+A_higher,GO_BP,potassium ion import across plasma membrane,TRUE,TRUE,Concordant
+A_higher,GO_BP,potassium ion transmembrane transport,TRUE,TRUE,Concordant
+A_higher,GO_BP,potassium ion transport,TRUE,TRUE,Concordant
+A_higher,GO_BP,protein O-linked glycosylation via xylose,TRUE,TRUE,Concordant
+A_higher,GO_BP,protein localization to extracellular region,TRUE,TRUE,Concordant
+A_higher,GO_BP,proteinogenic amino acid metabolic process,TRUE,TRUE,Concordant
+A_higher,GO_BP,proteoglycan biosynthetic process,TRUE,TRUE,Concordant
+A_higher,GO_BP,regulation of blood circulation,TRUE,TRUE,Concordant
+A_higher,GO_BP,regulation of blood pressure,TRUE,TRUE,Concordant
+A_higher,GO_BP,regulation of dopaminergic neuron differentiation,TRUE,TRUE,Concordant
+A_higher,GO_BP,regulation of heart contraction,TRUE,TRUE,Concordant
+A_higher,GO_BP,regulation of hormone secretion,TRUE,TRUE,Concordant
+A_higher,GO_BP,regulation of membrane potential,TRUE,TRUE,Concordant
+A_higher,GO_BP,regulation of monoatomic ion transmembrane transport,TRUE,TRUE,Concordant
+A_higher,GO_BP,regulation of nervous system development,TRUE,TRUE,Concordant
+A_higher,GO_BP,regulation of neuron projection development,TRUE,TRUE,Concordant
+A_higher,GO_BP,regulation of peptide hormone secretion,TRUE,TRUE,Concordant
+A_higher,GO_BP,regulation of peptide secretion,TRUE,TRUE,Concordant
+A_higher,GO_BP,regulation of peptide transport,TRUE,TRUE,Concordant
+A_higher,GO_BP,regulation of protein secretion,TRUE,TRUE,Concordant
+A_higher,GO_BP,regulation of synapse assembly,FALSE,TRUE,FDR-only
+A_higher,GO_BP,regulation of synapse organization,TRUE,TRUE,Concordant
+A_higher,GO_BP,regulation of synapse structure or activity,TRUE,TRUE,Concordant
+A_higher,GO_BP,renal absorption,TRUE,TRUE,Concordant
+A_higher,GO_BP,renal sodium ion transport,TRUE,TRUE,Concordant
+A_higher,GO_BP,renal system development,TRUE,TRUE,Concordant
+A_higher,GO_BP,renal system process,TRUE,TRUE,Concordant
+A_higher,GO_BP,response to BMP,TRUE,TRUE,Concordant
+A_higher,GO_BP,response to activity,FALSE,TRUE,FDR-only
+A_higher,GO_BP,response to cadmium ion,TRUE,TRUE,Concordant
+A_higher,GO_BP,response to copper ion,TRUE,TRUE,Concordant
+A_higher,GO_BP,response to metal ion,TRUE,TRUE,Concordant
+A_higher,GO_BP,response to toxic substance,TRUE,TRUE,Concordant
+A_higher,GO_BP,response to xenobiotic stimulus,TRUE,TRUE,Concordant
+A_higher,GO_BP,response to zinc ion,TRUE,TRUE,Concordant
+A_higher,GO_BP,sodium ion import across plasma membrane,TRUE,TRUE,Concordant
+A_higher,GO_BP,sodium ion transmembrane transport,TRUE,TRUE,Concordant
+A_higher,GO_BP,sodium ion transport,TRUE,TRUE,Concordant
+A_higher,GO_BP,stress response to copper ion,TRUE,TRUE,Concordant
+A_higher,GO_BP,stress response to metal ion,TRUE,TRUE,Concordant
+A_higher,GO_BP,synapse assembly,TRUE,TRUE,Concordant
+A_higher,GO_BP,tongue morphogenesis,TRUE,TRUE,Concordant
+A_higher,GO_BP,transepithelial transport,TRUE,TRUE,Concordant
+A_higher,GO_BP,transport across blood-brain barrier,TRUE,TRUE,Concordant
+A_higher,GO_BP,vascular process in circulatory system,TRUE,TRUE,Concordant
+A_higher,GO_BP,vascular transport,TRUE,TRUE,Concordant
+A_higher,Hallmark,HALLMARK_KRAS_SIGNALING_DN,TRUE,TRUE,Concordant
+A_higher,Hallmark,HALLMARK_MYOGENESIS,TRUE,TRUE,Concordant
+A_higher,KEGG,Adrenergic signaling in cardiomyocytes,TRUE,TRUE,Concordant
+A_higher,KEGG,Gastric acid secretion,TRUE,TRUE,Concordant
+A_higher,KEGG,Glutathione metabolism,FALSE,TRUE,FDR-only
+A_higher,KEGG,Glycosphingolipid biosynthesis - globo and isoglobo series,TRUE,TRUE,Concordant
+A_higher,KEGG,Glycosphingolipid biosynthesis - lacto and neolacto series,FALSE,TRUE,FDR-only
+A_higher,KEGG,Hormone signaling,TRUE,TRUE,Concordant
+A_higher,KEGG,Mineral absorption,TRUE,TRUE,Concordant
+A_higher,KEGG,Neuroactive ligand signaling,TRUE,TRUE,Concordant
+A_higher,KEGG,Neuroactive ligand-receptor interaction,TRUE,TRUE,Concordant
+A_higher,KEGG,Nitrogen metabolism,TRUE,TRUE,Concordant
+A_higher,KEGG,Pancreatic secretion,TRUE,TRUE,Concordant
+A_higher,KEGG,Protein digestion and absorption,TRUE,TRUE,Concordant
+A_higher,KEGG,Taste transduction,TRUE,TRUE,Concordant
+B_higher,GO_BP,B cell activation,TRUE,TRUE,Concordant
+B_higher,GO_BP,B cell proliferation,TRUE,TRUE,Concordant
+B_higher,GO_BP,"CD4-positive, alpha-beta T cell activation",TRUE,TRUE,Concordant
+B_higher,GO_BP,"CD4-positive, alpha-beta T cell differentiation",TRUE,TRUE,Concordant
+B_higher,GO_BP,"CD4-positive, alpha-beta T cell differentiation involved in immune response",TRUE,TRUE,Concordant
+B_higher,GO_BP,CENP-A containing chromatin assembly,TRUE,TRUE,Concordant
+B_higher,GO_BP,DNA damage checkpoint signaling,TRUE,TRUE,Concordant
+B_higher,GO_BP,"DNA damage response, signal transduction by p53 class mediator",TRUE,TRUE,Concordant
+B_higher,GO_BP,DNA integrity checkpoint signaling,TRUE,TRUE,Concordant
+B_higher,GO_BP,DNA recombination,TRUE,TRUE,Concordant
+B_higher,GO_BP,DNA replication,TRUE,TRUE,Concordant
+B_higher,GO_BP,DNA replication checkpoint signaling,TRUE,TRUE,Concordant
+B_higher,GO_BP,DNA replication initiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,DNA-templated DNA replication,TRUE,TRUE,Concordant
+B_higher,GO_BP,ERK1 and ERK2 cascade,TRUE,TRUE,Concordant
+B_higher,GO_BP,G1/S transition of mitotic cell cycle,TRUE,FALSE,Nominal-only
+B_higher,GO_BP,G2/M transition of mitotic cell cycle,TRUE,TRUE,Concordant
+B_higher,GO_BP,L-amino acid metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,L-tryptophan metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,T cell activation involved in immune response,TRUE,TRUE,Concordant
+B_higher,GO_BP,T cell apoptotic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,T cell costimulation,TRUE,TRUE,Concordant
+B_higher,GO_BP,T cell differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,T cell differentiation involved in immune response,TRUE,TRUE,Concordant
+B_higher,GO_BP,T cell mediated immunity,TRUE,TRUE,Concordant
+B_higher,GO_BP,T cell migration,TRUE,TRUE,Concordant
+B_higher,GO_BP,T cell proliferation,TRUE,TRUE,Concordant
+B_higher,GO_BP,T-helper 17 type immune response,TRUE,FALSE,Nominal-only
+B_higher,GO_BP,T-helper 2 cell differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,T-helper cell differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,activation of innate immune response,TRUE,TRUE,Concordant
+B_higher,GO_BP,activation of protein kinase activity,TRUE,TRUE,Concordant
+B_higher,GO_BP,actomyosin contractile ring organization,TRUE,TRUE,Concordant
+B_higher,GO_BP,acute inflammatory response,TRUE,TRUE,Concordant
+B_higher,GO_BP,acute-phase response,TRUE,TRUE,Concordant
+B_higher,GO_BP,acylglycerol biosynthetic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,acylglycerol catabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,acylglycerol homeostasis,TRUE,TRUE,Concordant
+B_higher,GO_BP,acylglycerol metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains,TRUE,TRUE,Concordant
+B_higher,GO_BP,alcohol biosynthetic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,alcohol metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,alpha-amino acid metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,alpha-beta T cell activation,TRUE,TRUE,Concordant
+B_higher,GO_BP,alpha-beta T cell activation involved in immune response,TRUE,TRUE,Concordant
+B_higher,GO_BP,alpha-beta T cell differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,alpha-beta T cell differentiation involved in immune response,TRUE,TRUE,Concordant
+B_higher,GO_BP,amide transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,amino acid import across plasma membrane,TRUE,TRUE,Concordant
+B_higher,GO_BP,amino acid metabolic process,TRUE,FALSE,Nominal-only
+B_higher,GO_BP,amino acid transmembrane transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,amino-acid betaine transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,amyloid-beta clearance,TRUE,TRUE,Concordant
+B_higher,GO_BP,androgen metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,angiotensin maturation,TRUE,TRUE,Concordant
+B_higher,GO_BP,anterior/posterior pattern specification,TRUE,TRUE,Concordant
+B_higher,GO_BP,antigen processing and presentation,TRUE,TRUE,Concordant
+B_higher,GO_BP,antimicrobial humoral immune response mediated by antimicrobial peptide,TRUE,TRUE,Concordant
+B_higher,GO_BP,antimicrobial humoral response,TRUE,TRUE,Concordant
+B_higher,GO_BP,antiviral innate immune response,TRUE,TRUE,Concordant
+B_higher,GO_BP,apical junction assembly,TRUE,TRUE,Concordant
+B_higher,GO_BP,arachidonate secretion,TRUE,TRUE,Concordant
+B_higher,GO_BP,arachidonate transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,arginine metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,astrocyte activation,TRUE,TRUE,Concordant
+B_higher,GO_BP,astrocyte development,TRUE,TRUE,Concordant
+B_higher,GO_BP,astrocyte differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,attachment of mitotic spindle microtubules to kinetochore,TRUE,TRUE,Concordant
+B_higher,GO_BP,attachment of spindle microtubules to kinetochore,TRUE,TRUE,Concordant
+B_higher,GO_BP,bicarbonate transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,bicellular tight junction assembly,TRUE,TRUE,Concordant
+B_higher,GO_BP,biological process involved in symbiotic interaction,TRUE,FALSE,Nominal-only
+B_higher,GO_BP,blood coagulation,TRUE,TRUE,Concordant
+B_higher,GO_BP,branching involved in mammary gland duct morphogenesis,TRUE,TRUE,Concordant
+B_higher,GO_BP,calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules,TRUE,TRUE,Concordant
+B_higher,GO_BP,calcium-mediated signaling,TRUE,TRUE,Concordant
+B_higher,GO_BP,canonical NF-kappaB signal transduction,TRUE,TRUE,Concordant
+B_higher,GO_BP,carboxylic acid biosynthetic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,carboxylic acid catabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,carboxylic acid transmembrane transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,carboxylic acid transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,cell activation involved in immune response,TRUE,TRUE,Concordant
+B_higher,GO_BP,cell adhesion mediated by integrin,TRUE,TRUE,Concordant
+B_higher,GO_BP,cell chemotaxis,TRUE,TRUE,Concordant
+B_higher,GO_BP,cell cycle DNA replication,TRUE,TRUE,Concordant
+B_higher,GO_BP,cell cycle G1/S phase transition,TRUE,FALSE,Nominal-only
+B_higher,GO_BP,cell cycle G2/M phase transition,TRUE,TRUE,Concordant
+B_higher,GO_BP,cell cycle checkpoint signaling,TRUE,TRUE,Concordant
+B_higher,GO_BP,cell differentiation involved in embryonic placenta development,TRUE,TRUE,Concordant
+B_higher,GO_BP,cell killing,TRUE,TRUE,Concordant
+B_higher,GO_BP,cell surface pattern recognition receptor signaling pathway,TRUE,TRUE,Concordant
+B_higher,GO_BP,cell surface toll-like receptor signaling pathway,TRUE,TRUE,Concordant
+B_higher,GO_BP,cell-cell adhesion via plasma-membrane adhesion molecules,TRUE,TRUE,Concordant
+B_higher,GO_BP,cell-cell junction assembly,TRUE,TRUE,Concordant
+B_higher,GO_BP,cell-cell junction organization,TRUE,TRUE,Concordant
+B_higher,GO_BP,cellular extravasation,TRUE,TRUE,Concordant
+B_higher,GO_BP,cellular response to UV-A,TRUE,FALSE,Nominal-only
+B_higher,GO_BP,cellular response to abiotic stimulus,TRUE,TRUE,Concordant
+B_higher,GO_BP,cellular response to antibiotic,TRUE,TRUE,Concordant
+B_higher,GO_BP,cellular response to biotic stimulus,TRUE,TRUE,Concordant
+B_higher,GO_BP,cellular response to chemokine,TRUE,TRUE,Concordant
+B_higher,GO_BP,cellular response to environmental stimulus,TRUE,TRUE,Concordant
+B_higher,GO_BP,cellular response to fatty acid,TRUE,TRUE,Concordant
+B_higher,GO_BP,cellular response to interleukin-1,TRUE,FALSE,Nominal-only
+B_higher,GO_BP,cellular response to ionizing radiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,cellular response to lipopolysaccharide,TRUE,TRUE,Concordant
+B_higher,GO_BP,cellular response to molecule of bacterial origin,TRUE,TRUE,Concordant
+B_higher,GO_BP,cellular response to radiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,cellular response to tumor necrosis factor,TRUE,TRUE,Concordant
+B_higher,GO_BP,cellular response to type I interferon,TRUE,TRUE,Concordant
+B_higher,GO_BP,cellular response to type II interferon,TRUE,TRUE,Concordant
+B_higher,GO_BP,cellular response to xenobiotic stimulus,TRUE,TRUE,Concordant
+B_higher,GO_BP,centromere complex assembly,TRUE,TRUE,Concordant
+B_higher,GO_BP,centrosome separation,TRUE,TRUE,Concordant
+B_higher,GO_BP,cerebellar granular layer development,TRUE,TRUE,Concordant
+B_higher,GO_BP,chemokine (C-X-C motif) ligand 2 production,FALSE,TRUE,FDR-only
+B_higher,GO_BP,chemokine production,TRUE,TRUE,Concordant
+B_higher,GO_BP,chemokine-mediated signaling pathway,TRUE,TRUE,Concordant
+B_higher,GO_BP,chemotaxis,TRUE,TRUE,Concordant
+B_higher,GO_BP,cholesterol homeostasis,TRUE,TRUE,Concordant
+B_higher,GO_BP,cholesterol import,TRUE,TRUE,Concordant
+B_higher,GO_BP,cholesterol metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,cholesterol transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,chromatin remodeling at centromere,TRUE,TRUE,Concordant
+B_higher,GO_BP,chromosome localization,TRUE,TRUE,Concordant
+B_higher,GO_BP,chromosome segregation,TRUE,TRUE,Concordant
+B_higher,GO_BP,chromosome separation,TRUE,TRUE,Concordant
+B_higher,GO_BP,chronic inflammatory response,TRUE,TRUE,Concordant
+B_higher,GO_BP,coagulation,TRUE,TRUE,Concordant
+B_higher,GO_BP,collagen catabolic process,TRUE,FALSE,Nominal-only
+B_higher,GO_BP,cortical actin cytoskeleton organization,TRUE,TRUE,Concordant
+B_higher,GO_BP,cortical cytoskeleton organization,TRUE,TRUE,Concordant
+B_higher,GO_BP,cytokine production involved in inflammatory response,TRUE,TRUE,Concordant
+B_higher,GO_BP,cytokinesis,TRUE,TRUE,Concordant
+B_higher,GO_BP,cytoskeleton-dependent cytokinesis,TRUE,TRUE,Concordant
+B_higher,GO_BP,defense response to Gram-positive bacterium,TRUE,TRUE,Concordant
+B_higher,GO_BP,defense response to bacterium,TRUE,TRUE,Concordant
+B_higher,GO_BP,defense response to virus,TRUE,TRUE,Concordant
+B_higher,GO_BP,dendritic cell antigen processing and presentation,TRUE,TRUE,Concordant
+B_higher,GO_BP,dendritic cell differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,detection of biotic stimulus,TRUE,TRUE,Concordant
+B_higher,GO_BP,detection of external biotic stimulus,TRUE,TRUE,Concordant
+B_higher,GO_BP,detection of molecule of bacterial origin,TRUE,TRUE,Concordant
+B_higher,GO_BP,dicarboxylic acid biosynthetic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,digestion,TRUE,TRUE,Concordant
+B_higher,GO_BP,digestive system process,TRUE,TRUE,Concordant
+B_higher,GO_BP,disruption of anatomical structure in another organism,TRUE,TRUE,Concordant
+B_higher,GO_BP,disruption of cell in another organism,TRUE,TRUE,Concordant
+B_higher,GO_BP,diterpenoid metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,double-strand break repair,FALSE,TRUE,FDR-only
+B_higher,GO_BP,double-strand break repair via break-induced replication,TRUE,TRUE,Concordant
+B_higher,GO_BP,double-strand break repair via homologous recombination,TRUE,TRUE,Concordant
+B_higher,GO_BP,embryonic forelimb morphogenesis,TRUE,TRUE,Concordant
+B_higher,GO_BP,embryonic placenta development,TRUE,TRUE,Concordant
+B_higher,GO_BP,embryonic skeletal system development,TRUE,TRUE,Concordant
+B_higher,GO_BP,embryonic skeletal system morphogenesis,TRUE,TRUE,Concordant
+B_higher,GO_BP,endocrine process,TRUE,TRUE,Concordant
+B_higher,GO_BP,eosinophil chemotaxis,TRUE,TRUE,Concordant
+B_higher,GO_BP,eosinophil migration,TRUE,TRUE,Concordant
+B_higher,GO_BP,epidermal cell differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,epidermal growth factor receptor signaling pathway,TRUE,FALSE,Nominal-only
+B_higher,GO_BP,epidermis development,TRUE,TRUE,Concordant
+B_higher,GO_BP,epithelial cell proliferation,TRUE,TRUE,Concordant
+B_higher,GO_BP,epithelial structure maintenance,TRUE,TRUE,Concordant
+B_higher,GO_BP,erythrocyte differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,erythrocyte homeostasis,TRUE,TRUE,Concordant
+B_higher,GO_BP,erythrose 4-phosphate/phosphoenolpyruvate family amino acid catabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,establishment of protein localization to extracellular region,TRUE,TRUE,Concordant
+B_higher,GO_BP,establishment of skin barrier,TRUE,TRUE,Concordant
+B_higher,GO_BP,establishment of spindle localization,TRUE,TRUE,Concordant
+B_higher,GO_BP,extracellular matrix disassembly,TRUE,TRUE,Concordant
+B_higher,GO_BP,fat-soluble vitamin biosynthetic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,fat-soluble vitamin catabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,fatty acid derivative catabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,fatty acid metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,fatty acid transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,female meiosis I,TRUE,TRUE,Concordant
+B_higher,GO_BP,female meiotic nuclear division,TRUE,TRUE,Concordant
+B_higher,GO_BP,female pregnancy,TRUE,FALSE,Nominal-only
+B_higher,GO_BP,foam cell differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,gland development,TRUE,TRUE,Concordant
+B_higher,GO_BP,gland morphogenesis,TRUE,TRUE,Concordant
+B_higher,GO_BP,glial cell activation,TRUE,TRUE,Concordant
+B_higher,GO_BP,glial cell development,TRUE,TRUE,Concordant
+B_higher,GO_BP,glial cell differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,gliogenesis,TRUE,TRUE,Concordant
+B_higher,GO_BP,glutamine family amino acid biosynthetic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,glutamine family amino acid metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,glycerol metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,glycerolipid catabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,glycerolipid metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,glycerophospholipid catabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,granulocyte activation,TRUE,TRUE,Concordant
+B_higher,GO_BP,granulocyte chemotaxis,TRUE,TRUE,Concordant
+B_higher,GO_BP,granulocyte migration,TRUE,TRUE,Concordant
+B_higher,GO_BP,hair cycle,TRUE,TRUE,Concordant
+B_higher,GO_BP,hair cycle process,TRUE,TRUE,Concordant
+B_higher,GO_BP,hair follicle development,TRUE,TRUE,Concordant
+B_higher,GO_BP,hemostasis,TRUE,TRUE,Concordant
+B_higher,GO_BP,hepaticobiliary system development,TRUE,TRUE,Concordant
+B_higher,GO_BP,hepatocyte differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,high-density lipoprotein particle clearance,TRUE,TRUE,Concordant
+B_higher,GO_BP,high-density lipoprotein particle remodeling,FALSE,TRUE,FDR-only
+B_higher,GO_BP,homeostasis of number of cells,TRUE,TRUE,Concordant
+B_higher,GO_BP,homologous recombination,TRUE,TRUE,Concordant
+B_higher,GO_BP,homotypic cell-cell adhesion,TRUE,TRUE,Concordant
+B_higher,GO_BP,hormone metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,hormone secretion,TRUE,TRUE,Concordant
+B_higher,GO_BP,hormone transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,host-mediated modulation of intestinal microbiota composition,TRUE,TRUE,Concordant
+B_higher,GO_BP,humoral immune response,TRUE,TRUE,Concordant
+B_higher,GO_BP,icosanoid catabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,icosanoid metabolic process,TRUE,FALSE,Nominal-only
+B_higher,GO_BP,icosanoid secretion,TRUE,TRUE,Concordant
+B_higher,GO_BP,icosanoid transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,immune response-activating cell surface receptor signaling pathway,TRUE,TRUE,Concordant
+B_higher,GO_BP,immune response-regulating cell surface receptor signaling pathway,TRUE,TRUE,Concordant
+B_higher,GO_BP,immune system development,TRUE,TRUE,Concordant
+B_higher,GO_BP,in utero embryonic development,TRUE,TRUE,Concordant
+B_higher,GO_BP,indole-containing compound metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,inflammatory response to antigenic stimulus,TRUE,TRUE,Concordant
+B_higher,GO_BP,innate immune response activating cell surface receptor signaling pathway,TRUE,TRUE,Concordant
+B_higher,GO_BP,innate immune response-activating signaling pathway,TRUE,TRUE,Concordant
+B_higher,GO_BP,inner cell mass cell proliferation,TRUE,TRUE,Concordant
+B_higher,GO_BP,inorganic anion transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,insulin secretion,TRUE,TRUE,Concordant
+B_higher,GO_BP,integrin activation,TRUE,TRUE,Concordant
+B_higher,GO_BP,integrin-mediated signaling pathway,TRUE,TRUE,Concordant
+B_higher,GO_BP,interferon-mediated signaling pathway,TRUE,TRUE,Concordant
+B_higher,GO_BP,interleukin-1 beta production,TRUE,TRUE,Concordant
+B_higher,GO_BP,interleukin-1 production,TRUE,TRUE,Concordant
+B_higher,GO_BP,interleukin-10 production,TRUE,FALSE,Nominal-only
+B_higher,GO_BP,interleukin-4-mediated signaling pathway,TRUE,TRUE,Concordant
+B_higher,GO_BP,interleukin-6 production,TRUE,TRUE,Concordant
+B_higher,GO_BP,interleukin-8 production,TRUE,TRUE,Concordant
+B_higher,GO_BP,intermediate filament cytoskeleton organization,TRUE,TRUE,Concordant
+B_higher,GO_BP,intermediate filament organization,TRUE,TRUE,Concordant
+B_higher,GO_BP,intermediate filament-based process,TRUE,TRUE,Concordant
+B_higher,GO_BP,intestinal absorption,TRUE,TRUE,Concordant
+B_higher,GO_BP,intestinal cholesterol absorption,TRUE,TRUE,Concordant
+B_higher,GO_BP,intestinal lipid absorption,TRUE,TRUE,Concordant
+B_higher,GO_BP,intrinsic apoptotic signaling pathway,TRUE,TRUE,Concordant
+B_higher,GO_BP,intrinsic apoptotic signaling pathway in response to DNA damage,TRUE,TRUE,Concordant
+B_higher,GO_BP,isoprenoid metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,keratinocyte development,TRUE,TRUE,Concordant
+B_higher,GO_BP,keratinocyte differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,keratinocyte proliferation,TRUE,TRUE,Concordant
+B_higher,GO_BP,ketone catabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,ketone metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,killing of cells of another organism,TRUE,TRUE,Concordant
+B_higher,GO_BP,kinetochore assembly,TRUE,TRUE,Concordant
+B_higher,GO_BP,kinetochore organization,TRUE,TRUE,Concordant
+B_higher,GO_BP,leukocyte activation involved in immune response,TRUE,TRUE,Concordant
+B_higher,GO_BP,leukocyte activation involved in inflammatory response,TRUE,TRUE,Concordant
+B_higher,GO_BP,leukocyte cell-cell adhesion,TRUE,TRUE,Concordant
+B_higher,GO_BP,leukocyte chemotaxis,TRUE,TRUE,Concordant
+B_higher,GO_BP,leukocyte degranulation,TRUE,TRUE,Concordant
+B_higher,GO_BP,leukocyte mediated cytotoxicity,FALSE,TRUE,FDR-only
+B_higher,GO_BP,leukocyte mediated immunity,TRUE,TRUE,Concordant
+B_higher,GO_BP,leukocyte migration,TRUE,TRUE,Concordant
+B_higher,GO_BP,leukocyte migration involved in inflammatory response,TRUE,TRUE,Concordant
+B_higher,GO_BP,leukocyte proliferation,TRUE,TRUE,Concordant
+B_higher,GO_BP,lipid catabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,lipid export from cell,TRUE,TRUE,Concordant
+B_higher,GO_BP,lipid homeostasis,TRUE,TRUE,Concordant
+B_higher,GO_BP,lipid localization,TRUE,TRUE,Concordant
+B_higher,GO_BP,lipid storage,TRUE,TRUE,Concordant
+B_higher,GO_BP,lipid transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,lipopolysaccharide-mediated signaling pathway,TRUE,TRUE,Concordant
+B_higher,GO_BP,lipoprotein metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,liver development,TRUE,TRUE,Concordant
+B_higher,GO_BP,long-chain fatty acid metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,long-chain fatty acid transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,low-density lipoprotein particle clearance,TRUE,TRUE,Concordant
+B_higher,GO_BP,low-density lipoprotein particle remodeling,TRUE,TRUE,Concordant
+B_higher,GO_BP,lymphocyte activation involved in immune response,TRUE,TRUE,Concordant
+B_higher,GO_BP,lymphocyte apoptotic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,lymphocyte chemotaxis,TRUE,TRUE,Concordant
+B_higher,GO_BP,lymphocyte costimulation,TRUE,TRUE,Concordant
+B_higher,GO_BP,lymphocyte differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,lymphocyte mediated immunity,TRUE,TRUE,Concordant
+B_higher,GO_BP,lymphocyte migration,TRUE,TRUE,Concordant
+B_higher,GO_BP,lymphocyte proliferation,TRUE,TRUE,Concordant
+B_higher,GO_BP,macrophage activation,TRUE,TRUE,Concordant
+B_higher,GO_BP,macrophage derived foam cell differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,maintenance of gastrointestinal epithelium,TRUE,TRUE,Concordant
+B_higher,GO_BP,mammary gland development,TRUE,TRUE,Concordant
+B_higher,GO_BP,mammary gland duct morphogenesis,TRUE,TRUE,Concordant
+B_higher,GO_BP,mammary gland epithelial cell proliferation,TRUE,TRUE,Concordant
+B_higher,GO_BP,mammary gland epithelium development,TRUE,TRUE,Concordant
+B_higher,GO_BP,meiosis I,TRUE,TRUE,Concordant
+B_higher,GO_BP,meiosis I cell cycle process,TRUE,TRUE,Concordant
+B_higher,GO_BP,meiotic cell cycle,TRUE,TRUE,Concordant
+B_higher,GO_BP,meiotic cell cycle phase transition,TRUE,TRUE,Concordant
+B_higher,GO_BP,meiotic cell cycle process,TRUE,TRUE,Concordant
+B_higher,GO_BP,meiotic chromosome segregation,TRUE,TRUE,Concordant
+B_higher,GO_BP,meiotic nuclear division,TRUE,TRUE,Concordant
+B_higher,GO_BP,meiotic spindle assembly,TRUE,TRUE,Concordant
+B_higher,GO_BP,meiotic spindle organization,TRUE,TRUE,Concordant
+B_higher,GO_BP,membraneless organelle assembly,TRUE,TRUE,Concordant
+B_higher,GO_BP,metaphase chromosome alignment,TRUE,TRUE,Concordant
+B_higher,GO_BP,metaphase/anaphase transition of cell cycle,TRUE,TRUE,Concordant
+B_higher,GO_BP,metaphase/anaphase transition of mitotic cell cycle,TRUE,TRUE,Concordant
+B_higher,GO_BP,microglial cell activation,TRUE,TRUE,Concordant
+B_higher,GO_BP,microtubule cytoskeleton organization involved in mitosis,TRUE,TRUE,Concordant
+B_higher,GO_BP,microvillus organization,TRUE,TRUE,Concordant
+B_higher,GO_BP,mitotic DNA integrity checkpoint signaling,TRUE,TRUE,Concordant
+B_higher,GO_BP,mitotic DNA replication,TRUE,TRUE,Concordant
+B_higher,GO_BP,mitotic DNA replication checkpoint signaling,TRUE,TRUE,Concordant
+B_higher,GO_BP,mitotic G2/M transition checkpoint,TRUE,TRUE,Concordant
+B_higher,GO_BP,mitotic cell cycle checkpoint signaling,TRUE,TRUE,Concordant
+B_higher,GO_BP,mitotic cell cycle phase transition,TRUE,TRUE,Concordant
+B_higher,GO_BP,mitotic cytokinesis,TRUE,TRUE,Concordant
+B_higher,GO_BP,mitotic metaphase chromosome alignment,TRUE,TRUE,Concordant
+B_higher,GO_BP,mitotic nuclear division,TRUE,TRUE,Concordant
+B_higher,GO_BP,mitotic sister chromatid segregation,TRUE,TRUE,Concordant
+B_higher,GO_BP,mitotic sister chromatid separation,TRUE,TRUE,Concordant
+B_higher,GO_BP,mitotic spindle assembly,TRUE,TRUE,Concordant
+B_higher,GO_BP,mitotic spindle assembly checkpoint signaling,TRUE,TRUE,Concordant
+B_higher,GO_BP,mitotic spindle checkpoint signaling,TRUE,TRUE,Concordant
+B_higher,GO_BP,mitotic spindle elongation,TRUE,TRUE,Concordant
+B_higher,GO_BP,mitotic spindle midzone assembly,TRUE,TRUE,Concordant
+B_higher,GO_BP,mitotic spindle organization,TRUE,TRUE,Concordant
+B_higher,GO_BP,molting cycle,TRUE,TRUE,Concordant
+B_higher,GO_BP,molting cycle process,TRUE,TRUE,Concordant
+B_higher,GO_BP,monoacylglycerol metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,monocarboxylic acid biosynthetic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,monocarboxylic acid catabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,monocarboxylic acid transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,monocyte chemotaxis,TRUE,TRUE,Concordant
+B_higher,GO_BP,mononuclear cell migration,TRUE,TRUE,Concordant
+B_higher,GO_BP,mononuclear cell proliferation,TRUE,TRUE,Concordant
+B_higher,GO_BP,morphogenesis of a branching epithelium,TRUE,TRUE,Concordant
+B_higher,GO_BP,morphogenesis of a branching structure,TRUE,TRUE,Concordant
+B_higher,GO_BP,mucosal immune response,TRUE,TRUE,Concordant
+B_higher,GO_BP,multi-multicellular organism process,TRUE,TRUE,Concordant
+B_higher,GO_BP,multi-organism reproductive process,TRUE,TRUE,Concordant
+B_higher,GO_BP,myeloid cell activation involved in immune response,TRUE,TRUE,Concordant
+B_higher,GO_BP,myeloid cell differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,myeloid cell homeostasis,TRUE,TRUE,Concordant
+B_higher,GO_BP,myeloid dendritic cell activation,TRUE,FALSE,Nominal-only
+B_higher,GO_BP,myeloid dendritic cell differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,myeloid leukocyte activation,TRUE,TRUE,Concordant
+B_higher,GO_BP,myeloid leukocyte differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,myeloid leukocyte mediated immunity,TRUE,TRUE,Concordant
+B_higher,GO_BP,myeloid leukocyte migration,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of T cell activation,FALSE,TRUE,FDR-only
+B_higher,GO_BP,negative regulation of cell activation,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of cell adhesion,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of cell cycle,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of cell cycle phase transition,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of cell cycle process,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of cell-cell adhesion,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of chromosome organization,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of chromosome segregation,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of chromosome separation,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of coagulation,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of cytokine production involved in inflammatory response,TRUE,FALSE,Nominal-only
+B_higher,GO_BP,negative regulation of cytokine-mediated signaling pathway,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of defense response,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of digestive system process,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of epidermal cell differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of epidermis development,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of epithelial cell differentiation,TRUE,FALSE,Nominal-only
+B_higher,GO_BP,negative regulation of hemopoiesis,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of homotypic cell-cell adhesion,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of immune effector process,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of immune response,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of inflammatory response,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of leukocyte activation,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of leukocyte cell-cell adhesion,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of leukocyte differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of lipid catabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of lymphocyte activation,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of meiotic cell cycle,FALSE,TRUE,FDR-only
+B_higher,GO_BP,negative regulation of meiotic nuclear division,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of metaphase/anaphase transition of cell cycle,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of mitotic cell cycle,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of mitotic cell cycle phase transition,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of mitotic metaphase/anaphase transition,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of mitotic nuclear division,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of mitotic sister chromatid segregation,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of mitotic sister chromatid separation,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of nuclear division,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of organelle organization,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of phosphorylation,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of protein phosphorylation,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of response to biotic stimulus,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of response to cytokine stimulus,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of response to external stimulus,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of response to wounding,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of secretion,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of sister chromatid segregation,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of toll-like receptor 4 signaling pathway,FALSE,TRUE,FDR-only
+B_higher,GO_BP,negative regulation of type I interferon-mediated signaling pathway,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of viral genome replication,TRUE,TRUE,Concordant
+B_higher,GO_BP,negative regulation of viral process,TRUE,TRUE,Concordant
+B_higher,GO_BP,neuroinflammatory response,TRUE,TRUE,Concordant
+B_higher,GO_BP,neutral amino acid transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,neutral lipid biosynthetic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,neutral lipid catabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,neutral lipid metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,neutrophil activation,TRUE,TRUE,Concordant
+B_higher,GO_BP,neutrophil chemotaxis,TRUE,TRUE,Concordant
+B_higher,GO_BP,neutrophil migration,TRUE,TRUE,Concordant
+B_higher,GO_BP,nitrogen cycle metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,non-canonical NF-kappaB signal transduction,TRUE,TRUE,Concordant
+B_higher,GO_BP,nuclear DNA replication,TRUE,TRUE,Concordant
+B_higher,GO_BP,nuclear chromosome segregation,TRUE,TRUE,Concordant
+B_higher,GO_BP,nuclear division,TRUE,TRUE,Concordant
+B_higher,GO_BP,nucleobase transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,nutrient storage,TRUE,TRUE,Concordant
+B_higher,GO_BP,olefinic compound metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,oocyte maturation,FALSE,TRUE,FDR-only
+B_higher,GO_BP,organ or tissue specific immune response,TRUE,TRUE,Concordant
+B_higher,GO_BP,organic acid biosynthetic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,organic acid catabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,organic acid transmembrane transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,organic acid transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,organic anion transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,organic cation transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,organic hydroxy compound transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,organophosphate catabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,pattern recognition receptor signaling pathway,TRUE,TRUE,Concordant
+B_higher,GO_BP,peptide hormone processing,TRUE,TRUE,Concordant
+B_higher,GO_BP,peptide hormone secretion,TRUE,TRUE,Concordant
+B_higher,GO_BP,peptide secretion,TRUE,TRUE,Concordant
+B_higher,GO_BP,peptide transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,peptidyl-tyrosine modification,TRUE,TRUE,Concordant
+B_higher,GO_BP,peptidyl-tyrosine phosphorylation,TRUE,TRUE,Concordant
+B_higher,GO_BP,phagocytosis,TRUE,TRUE,Concordant
+B_higher,GO_BP,phosphatidic acid metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,phosphatidylcholine catabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,phosphatidylcholine metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,phosphatidylglycerol metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,phospholipase C-activating G protein-coupled receptor signaling pathway,TRUE,TRUE,Concordant
+B_higher,GO_BP,phospholipid catabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,phospholipid transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,placenta development,TRUE,TRUE,Concordant
+B_higher,GO_BP,plasma lipoprotein particle assembly,TRUE,TRUE,Concordant
+B_higher,GO_BP,plasma lipoprotein particle clearance,TRUE,TRUE,Concordant
+B_higher,GO_BP,plasma lipoprotein particle organization,TRUE,TRUE,Concordant
+B_higher,GO_BP,plasma lipoprotein particle remodeling,TRUE,TRUE,Concordant
+B_higher,GO_BP,plasminogen activation,TRUE,TRUE,Concordant
+B_higher,GO_BP,platelet activation,TRUE,TRUE,Concordant
+B_higher,GO_BP,podosome assembly,FALSE,TRUE,FDR-only
+B_higher,GO_BP,polyol biosynthetic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,polyol metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of B cell activation,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of B cell proliferation,TRUE,TRUE,Concordant
+B_higher,GO_BP,"positive regulation of CD4-positive, alpha-beta T cell activation",TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of ERK1 and ERK2 cascade,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of G2/M transition of mitotic cell cycle,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of MAPK cascade,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of T cell activation,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of T cell differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of T cell proliferation,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of actin filament depolymerization,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of acute inflammatory response,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of alpha-beta T cell activation,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of antigen processing and presentation,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of astrocyte differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of attachment of spindle microtubules to kinetochore,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of canonical NF-kappaB signal transduction,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of catalytic activity,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of cell activation,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of cell cycle,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of cell cycle G2/M phase transition,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of cell cycle checkpoint,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of cell cycle phase transition,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of cell cycle process,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of cell development,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of cell division,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of cell-cell adhesion,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of chemokine production,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of chemotaxis,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of chromosome segregation,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of chromosome separation,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of cytokine-mediated signaling pathway,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of cytokinesis,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of cytoskeleton organization,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of cytosolic calcium ion concentration,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of defense response to bacterium,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of fatty acid biosynthetic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of fatty acid transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of fibroblast proliferation,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of gamma-delta T cell activation,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of glial cell differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of gliogenesis,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of hair follicle development,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of hemopoiesis,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of hormone secretion,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of icosanoid secretion,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of immune effector process,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of inflammatory response,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of innate immune response,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of insulin secretion,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of interleukin-1 beta production,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of interleukin-1 production,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of interleukin-10 production,TRUE,FALSE,Nominal-only
+B_higher,GO_BP,positive regulation of interleukin-17 production,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of interleukin-6 production,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of interleukin-8 production,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of keratinocyte proliferation,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of kinase activity,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of leukocyte activation,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of leukocyte cell-cell adhesion,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of leukocyte chemotaxis,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of leukocyte differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of leukocyte migration,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of leukocyte proliferation,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of lipid biosynthetic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of lipid localization,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of lipid transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of lymphocyte activation,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of lymphocyte differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of lymphocyte proliferation,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of macrophage derived foam cell differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of meiotic cell cycle,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of membrane invagination,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of metaphase/anaphase transition of cell cycle,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of mitotic cell cycle,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of mitotic cell cycle phase transition,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of mitotic cell cycle spindle assembly checkpoint,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of mitotic cytokinesis,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of mitotic metaphase/anaphase transition,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of mitotic nuclear division,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of mitotic sister chromatid separation,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of monoatomic ion transport,FALSE,TRUE,FDR-only
+B_higher,GO_BP,positive regulation of mononuclear cell migration,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of mononuclear cell proliferation,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of myeloid cell differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of myeloid leukocyte differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of neuroinflammatory response,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of non-canonical NF-kappaB signal transduction,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of nuclear division,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of organic acid transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of peptide hormone secretion,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of peptide secretion,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of phagocytosis,TRUE,TRUE,Concordant
+B_higher,GO_BP,"positive regulation of phagocytosis, engulfment",TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of phosphate metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of phosphorus metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of phosphorylation,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of platelet activation,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of production of molecular mediator of immune response,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of protein depolymerization,FALSE,TRUE,FDR-only
+B_higher,GO_BP,positive regulation of protein kinase activity,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of protein localization,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of protein localization to cell periphery,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of protein localization to membrane,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of protein phosphorylation,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of protein secretion,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of protein transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of protein-containing complex assembly,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of response to biotic stimulus,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of response to wounding,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of secretion,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of secretion by cell,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of smooth muscle cell proliferation,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of spindle checkpoint,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of transferase activity,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of tumor necrosis factor production,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of tumor necrosis factor superfamily cytokine production,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of type 2 immune response,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of type I interferon production,TRUE,TRUE,Concordant
+B_higher,GO_BP,positive regulation of wound healing,TRUE,TRUE,Concordant
+B_higher,GO_BP,primary alcohol metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,production of molecular mediator involved in inflammatory response,TRUE,TRUE,Concordant
+B_higher,GO_BP,production of molecular mediator of immune response,TRUE,TRUE,Concordant
+B_higher,GO_BP,protein localization to extracellular region,TRUE,TRUE,Concordant
+B_higher,GO_BP,protein processing,TRUE,TRUE,Concordant
+B_higher,GO_BP,protein secretion,TRUE,TRUE,Concordant
+B_higher,GO_BP,protein-containing complex remodeling,TRUE,TRUE,Concordant
+B_higher,GO_BP,protein-lipid complex assembly,TRUE,TRUE,Concordant
+B_higher,GO_BP,protein-lipid complex organization,TRUE,TRUE,Concordant
+B_higher,GO_BP,protein-lipid complex remodeling,TRUE,TRUE,Concordant
+B_higher,GO_BP,proteinogenic amino acid metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,purine nucleobase transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,pyroptotic inflammatory response,TRUE,TRUE,Concordant
+B_higher,GO_BP,reactive oxygen species metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,recombinational repair,TRUE,TRUE,Concordant
+B_higher,GO_BP,regeneration,FALSE,TRUE,FDR-only
+B_higher,GO_BP,regulation of B cell activation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of B cell differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of B cell proliferation,TRUE,TRUE,Concordant
+B_higher,GO_BP,"regulation of CD4-positive, alpha-beta T cell activation",TRUE,TRUE,Concordant
+B_higher,GO_BP,"regulation of CD4-positive, alpha-beta T cell differentiation",TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of DNA replication,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of ERK1 and ERK2 cascade,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of G2/M transition of mitotic cell cycle,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of T cell activation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of T cell differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of T cell proliferation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of T-helper 2 cell differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of T-helper cell differentiation,TRUE,FALSE,Nominal-only
+B_higher,GO_BP,regulation of acute inflammatory response,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of adaptive immune response,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of alpha-beta T cell activation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of amino acid import across plasma membrane,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of amino acid metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of amino acid transmembrane transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of amyloid-beta clearance,FALSE,TRUE,FDR-only
+B_higher,GO_BP,regulation of angiotensin levels in blood,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of antigen processing and presentation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of apoptotic signaling pathway,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of astrocyte differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of attachment of spindle microtubules to kinetochore,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of blood coagulation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of blood pressure,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of body fluid levels,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of canonical NF-kappaB signal transduction,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of cell cycle G2/M phase transition,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of cell cycle checkpoint,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of cell cycle phase transition,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of cell division,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of cell projection size,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of cellular extravasation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of chemokine (C-X-C motif) ligand 2 production,FALSE,TRUE,FDR-only
+B_higher,GO_BP,regulation of chemokine production,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of chemotaxis,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of chromosome organization,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of chromosome segregation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of chromosome separation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of coagulation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of cytokine production involved in inflammatory response,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of cytokine-mediated signaling pathway,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of cytokinesis,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of defense response to bacterium,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of dendritic cell antigen processing and presentation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of digestive system process,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of epidermal cell differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of epidermis development,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of epithelial cell differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of gamma-delta T cell activation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of glial cell differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of gliogenesis,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of hair cycle,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of hair follicle development,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of hemopoiesis,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of hemostasis,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of homotypic cell-cell adhesion,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of hormone secretion,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of icosanoid secretion,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of immune effector process,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of inflammatory response,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of insulin secretion,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of integrin activation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of interleukin-1 beta production,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of interleukin-1 production,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of interleukin-10 production,TRUE,FALSE,Nominal-only
+B_higher,GO_BP,regulation of interleukin-6 production,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of interleukin-8 production,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of intestinal absorption,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of intestinal lipid absorption,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of keratinocyte differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of keratinocyte proliferation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of kinase activity,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of leukocyte cell-cell adhesion,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of leukocyte chemotaxis,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of leukocyte degranulation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of leukocyte differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of leukocyte mediated immunity,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of leukocyte migration,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of leukocyte proliferation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of lipid biosynthetic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of lipid catabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of lipid localization,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of lipid metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of lipid transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of lipoprotein particle clearance,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of low-density lipoprotein particle clearance,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of lymphocyte differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of lymphocyte mediated immunity,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of lymphocyte migration,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of lymphocyte proliferation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of macrophage derived foam cell differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of mast cell degranulation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of meiotic cell cycle,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of meiotic nuclear division,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of membrane protein ectodomain proteolysis,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of metaphase/anaphase transition of cell cycle,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of microglial cell activation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of microvillus organization,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of mitotic cell cycle phase transition,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of mitotic cell cycle spindle assembly checkpoint,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of mitotic cytokinesis,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of mitotic metaphase/anaphase transition,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of mitotic nuclear division,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of mitotic sister chromatid segregation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of mitotic sister chromatid separation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of mitotic spindle checkpoint,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of monocyte chemotaxis,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of mononuclear cell migration,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of mononuclear cell proliferation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of myeloid cell differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of myeloid leukocyte differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of neurogenesis,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of neuroinflammatory response,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of neutrophil chemotaxis,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of neutrophil migration,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of nuclear division,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of organic acid transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of peptide hormone secretion,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of peptide secretion,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of peptide transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of phagocytosis,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of phosphatidylcholine metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of phospholipid metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of phosphorylation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of plasma lipoprotein particle levels,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of plasminogen activation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of platelet activation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of platelet aggregation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of production of molecular mediator of immune response,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of protein kinase activity,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of protein phosphorylation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of protein secretion,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of reactive oxygen species metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of regulatory T cell differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of response to cytokine stimulus,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of response to wounding,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of sister chromatid segregation,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of smooth muscle contraction,TRUE,FALSE,Nominal-only
+B_higher,GO_BP,regulation of spindle checkpoint,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of steroid metabolic process,TRUE,FALSE,Nominal-only
+B_higher,GO_BP,regulation of stress-activated MAPK cascade,FALSE,TRUE,FDR-only
+B_higher,GO_BP,regulation of superoxide metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of systemic arterial blood pressure,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of systemic arterial blood pressure by circulatory renin-angiotensin,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of systemic arterial blood pressure by hormone,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of systemic arterial blood pressure by renin-angiotensin,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of systemic arterial blood pressure mediated by a chemical signal,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of toll-like receptor 2 signaling pathway,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of toll-like receptor 4 signaling pathway,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of transferase activity,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of triglyceride metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of tumor necrosis factor production,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of tumor necrosis factor superfamily cytokine production,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of type 2 immune response,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of type I interferon-mediated signaling pathway,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of ubiquitin protein ligase activity,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of viral genome replication,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of viral life cycle,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of viral process,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulation of wound healing,TRUE,TRUE,Concordant
+B_higher,GO_BP,regulatory T cell differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,renal system process involved in regulation of blood volume,TRUE,TRUE,Concordant
+B_higher,GO_BP,renal system process involved in regulation of systemic arterial blood pressure,TRUE,TRUE,Concordant
+B_higher,GO_BP,replicative senescence,TRUE,TRUE,Concordant
+B_higher,GO_BP,respiratory burst,TRUE,TRUE,Concordant
+B_higher,GO_BP,respiratory burst involved in defense response,TRUE,TRUE,Concordant
+B_higher,GO_BP,response to X-ray,TRUE,TRUE,Concordant
+B_higher,GO_BP,response to amyloid-beta,TRUE,TRUE,Concordant
+B_higher,GO_BP,response to antibiotic,TRUE,TRUE,Concordant
+B_higher,GO_BP,response to carbohydrate,TRUE,TRUE,Concordant
+B_higher,GO_BP,response to chemokine,TRUE,TRUE,Concordant
+B_higher,GO_BP,response to fatty acid,TRUE,TRUE,Concordant
+B_higher,GO_BP,response to fructose,TRUE,TRUE,Concordant
+B_higher,GO_BP,response to fungus,TRUE,FALSE,Nominal-only
+B_higher,GO_BP,response to gamma radiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,response to hexose,TRUE,TRUE,Concordant
+B_higher,GO_BP,response to interleukin-1,TRUE,TRUE,Concordant
+B_higher,GO_BP,response to ionizing radiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,response to lipopolysaccharide,TRUE,TRUE,Concordant
+B_higher,GO_BP,response to mechanical stimulus,TRUE,FALSE,Nominal-only
+B_higher,GO_BP,response to molecule of bacterial origin,TRUE,TRUE,Concordant
+B_higher,GO_BP,response to monosaccharide,TRUE,TRUE,Concordant
+B_higher,GO_BP,response to nutrient,TRUE,TRUE,Concordant
+B_higher,GO_BP,response to peptidoglycan,TRUE,TRUE,Concordant
+B_higher,GO_BP,response to radiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,response to toxic substance,TRUE,TRUE,Concordant
+B_higher,GO_BP,response to tumor necrosis factor,TRUE,TRUE,Concordant
+B_higher,GO_BP,response to type I interferon,TRUE,TRUE,Concordant
+B_higher,GO_BP,response to type II interferon,TRUE,TRUE,Concordant
+B_higher,GO_BP,response to virus,TRUE,TRUE,Concordant
+B_higher,GO_BP,response to xenobiotic stimulus,TRUE,TRUE,Concordant
+B_higher,GO_BP,retinoid metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,retinol metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,reverse cholesterol transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,secondary alcohol metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,signal transduction in response to DNA damage,TRUE,TRUE,Concordant
+B_higher,GO_BP,signaling receptor ligand precursor processing,TRUE,TRUE,Concordant
+B_higher,GO_BP,sister chromatid segregation,TRUE,TRUE,Concordant
+B_higher,GO_BP,skin development,TRUE,TRUE,Concordant
+B_higher,GO_BP,skin epidermis development,TRUE,TRUE,Concordant
+B_higher,GO_BP,small molecule catabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,smooth muscle contraction,TRUE,TRUE,Concordant
+B_higher,GO_BP,spindle assembly,TRUE,TRUE,Concordant
+B_higher,GO_BP,spindle assembly checkpoint signaling,TRUE,TRUE,Concordant
+B_higher,GO_BP,spindle assembly involved in female meiosis,TRUE,TRUE,Concordant
+B_higher,GO_BP,spindle checkpoint signaling,TRUE,TRUE,Concordant
+B_higher,GO_BP,spindle elongation,TRUE,TRUE,Concordant
+B_higher,GO_BP,spindle localization,TRUE,TRUE,Concordant
+B_higher,GO_BP,spindle midzone assembly,TRUE,TRUE,Concordant
+B_higher,GO_BP,spindle organization,TRUE,TRUE,Concordant
+B_higher,GO_BP,steroid biosynthetic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,steroid catabolic process,TRUE,FALSE,Nominal-only
+B_higher,GO_BP,steroid metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,sterol homeostasis,TRUE,TRUE,Concordant
+B_higher,GO_BP,sterol metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,sterol transport,TRUE,TRUE,Concordant
+B_higher,GO_BP,sulfation,TRUE,TRUE,Concordant
+B_higher,GO_BP,superoxide metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,taxis,TRUE,TRUE,Concordant
+B_higher,GO_BP,terpenoid metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,tight junction assembly,TRUE,TRUE,Concordant
+B_higher,GO_BP,tight junction organization,TRUE,TRUE,Concordant
+B_higher,GO_BP,toll-like receptor 2 signaling pathway,TRUE,TRUE,Concordant
+B_higher,GO_BP,toll-like receptor 4 signaling pathway,TRUE,TRUE,Concordant
+B_higher,GO_BP,toll-like receptor signaling pathway,TRUE,TRUE,Concordant
+B_higher,GO_BP,triglyceride biosynthetic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,triglyceride catabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,triglyceride homeostasis,TRUE,TRUE,Concordant
+B_higher,GO_BP,triglyceride metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,trophoblast giant cell differentiation,TRUE,TRUE,Concordant
+B_higher,GO_BP,tumor necrosis factor production,TRUE,TRUE,Concordant
+B_higher,GO_BP,tumor necrosis factor superfamily cytokine production,TRUE,TRUE,Concordant
+B_higher,GO_BP,tumor necrosis factor-mediated signaling pathway,TRUE,TRUE,Concordant
+B_higher,GO_BP,type 2 immune response,TRUE,TRUE,Concordant
+B_higher,GO_BP,type II interferon-mediated signaling pathway,TRUE,TRUE,Concordant
+B_higher,GO_BP,urea cycle,TRUE,TRUE,Concordant
+B_higher,GO_BP,urea metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,vascular process in circulatory system,TRUE,TRUE,Concordant
+B_higher,GO_BP,very-low-density lipoprotein particle assembly,TRUE,TRUE,Concordant
+B_higher,GO_BP,viral life cycle,TRUE,TRUE,Concordant
+B_higher,GO_BP,viral process,TRUE,TRUE,Concordant
+B_higher,GO_BP,vitamin D biosynthetic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,vitamin D metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,vitamin K metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,vitamin biosynthetic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,vitamin catabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,vitamin metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,wound healing,TRUE,TRUE,Concordant
+B_higher,GO_BP,xenobiotic metabolic process,TRUE,TRUE,Concordant
+B_higher,GO_BP,zymogen activation,TRUE,TRUE,Concordant
+B_higher,Hallmark,HALLMARK_CHOLESTEROL_HOMEOSTASIS,FALSE,TRUE,FDR-only
+B_higher,Hallmark,HALLMARK_COAGULATION,TRUE,TRUE,Concordant
+B_higher,Hallmark,HALLMARK_COMPLEMENT,TRUE,TRUE,Concordant
+B_higher,Hallmark,HALLMARK_E2F_TARGETS,TRUE,TRUE,Concordant
+B_higher,Hallmark,HALLMARK_ESTROGEN_RESPONSE_LATE,TRUE,TRUE,Concordant
+B_higher,Hallmark,HALLMARK_G2M_CHECKPOINT,TRUE,TRUE,Concordant
+B_higher,Hallmark,HALLMARK_IL2_STAT5_SIGNALING,TRUE,TRUE,Concordant
+B_higher,Hallmark,HALLMARK_IL6_JAK_STAT3_SIGNALING,TRUE,TRUE,Concordant
+B_higher,Hallmark,HALLMARK_INFLAMMATORY_RESPONSE,TRUE,TRUE,Concordant
+B_higher,Hallmark,HALLMARK_INTERFERON_ALPHA_RESPONSE,TRUE,TRUE,Concordant
+B_higher,Hallmark,HALLMARK_INTERFERON_GAMMA_RESPONSE,TRUE,TRUE,Concordant
+B_higher,Hallmark,HALLMARK_KRAS_SIGNALING_UP,TRUE,TRUE,Concordant
+B_higher,Hallmark,HALLMARK_MITOTIC_SPINDLE,TRUE,TRUE,Concordant
+B_higher,Hallmark,HALLMARK_TNFA_SIGNALING_VIA_NFKB,TRUE,TRUE,Concordant
+B_higher,KEGG,African trypanosomiasis,TRUE,TRUE,Concordant
+B_higher,KEGG,Amoebiasis,TRUE,TRUE,Concordant
+B_higher,KEGG,Arachidonic acid metabolism,TRUE,TRUE,Concordant
+B_higher,KEGG,Arginine biosynthesis,TRUE,TRUE,Concordant
+B_higher,KEGG,Bile secretion,TRUE,TRUE,Concordant
+B_higher,KEGG,Cell cycle,TRUE,TRUE,Concordant
+B_higher,KEGG,Chemokine signaling pathway,TRUE,TRUE,Concordant
+B_higher,KEGG,Cholesterol metabolism,TRUE,TRUE,Concordant
+B_higher,KEGG,Complement and coagulation cascades,TRUE,TRUE,Concordant
+B_higher,KEGG,Cornified envelope formation,TRUE,TRUE,Concordant
+B_higher,KEGG,Cytokine-cytokine receptor interaction,TRUE,TRUE,Concordant
+B_higher,KEGG,Epstein-Barr virus infection,TRUE,TRUE,Concordant
+B_higher,KEGG,Ether lipid metabolism,TRUE,TRUE,Concordant
+B_higher,KEGG,Fat digestion and absorption,TRUE,TRUE,Concordant
+B_higher,KEGG,Glycerophospholipid metabolism,FALSE,TRUE,FDR-only
+B_higher,KEGG,Hepatitis C,TRUE,TRUE,Concordant
+B_higher,KEGG,Human T-cell leukemia virus 1 infection,TRUE,TRUE,Concordant
+B_higher,KEGG,IL-17 signaling pathway,TRUE,TRUE,Concordant
+B_higher,KEGG,Inflammatory mediator regulation of TRP channels,TRUE,TRUE,Concordant
+B_higher,KEGG,Influenza A,TRUE,TRUE,Concordant
+B_higher,KEGG,Linoleic acid metabolism,TRUE,TRUE,Concordant
+B_higher,KEGG,Lipid and atherosclerosis,TRUE,TRUE,Concordant
+B_higher,KEGG,Motor proteins,TRUE,TRUE,Concordant
+B_higher,KEGG,NF-kappa B signaling pathway,FALSE,TRUE,FDR-only
+B_higher,KEGG,NOD-like receptor signaling pathway,TRUE,TRUE,Concordant
+B_higher,KEGG,Pathogenic Escherichia coli infection,TRUE,TRUE,Concordant
+B_higher,KEGG,Pertussis,TRUE,TRUE,Concordant
+B_higher,KEGG,Phagocytosis,TRUE,FALSE,Nominal-only
+B_higher,KEGG,Protein digestion and absorption,TRUE,TRUE,Concordant
+B_higher,KEGG,Renin-angiotensin system,TRUE,TRUE,Concordant
+B_higher,KEGG,Rheumatoid arthritis,TRUE,TRUE,Concordant
+B_higher,KEGG,Small cell lung cancer,TRUE,TRUE,Concordant
+B_higher,KEGG,Staphylococcus aureus infection,TRUE,TRUE,Concordant
+B_higher,KEGG,TNF signaling pathway,TRUE,TRUE,Concordant
+B_higher,KEGG,Tuberculosis,TRUE,TRUE,Concordant
+B_higher,KEGG,Viral protein interaction with cytokine and cytokine receptor,TRUE,TRUE,Concordant
+B_higher,KEGG,Virion - Hepatitis viruses,TRUE,TRUE,Concordant
+B_higher,KEGG,Vitamin digestion and absorption,TRUE,TRUE,Concordant
+B_higher,KEGG,alpha-Linolenic acid metabolism,TRUE,TRUE,Concordant
+B_higher,KEGG,p53 signaling pathway,TRUE,TRUE,Concordant

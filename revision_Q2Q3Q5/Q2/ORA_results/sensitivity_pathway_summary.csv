@@ -1,0 +1,15 @@
+direction,database,classification,n
+A_higher,GO_BP,Concordant,94
+A_higher,GO_BP,FDR-only,3
+A_higher,GO_BP,Nominal-only,1
+A_higher,Hallmark,Concordant,2
+A_higher,KEGG,Concordant,11
+A_higher,KEGG,FDR-only,2
+B_higher,GO_BP,Concordant,799
+B_higher,GO_BP,FDR-only,15
+B_higher,GO_BP,Nominal-only,23
+B_higher,Hallmark,Concordant,13
+B_higher,Hallmark,FDR-only,1
+B_higher,KEGG,Concordant,37
+B_higher,KEGG,FDR-only,2
+B_higher,KEGG,Nominal-only,1

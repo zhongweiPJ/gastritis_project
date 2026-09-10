@@ -1,0 +1,8 @@
+Analysis,N
+All genes tested,29388
+Nominal DEG: P < 0.05 & |log2FC| > 0.5,2984
+Nominal: B higher,1554
+Nominal: A higher,1430
+FDR DEG: BH-adjusted P < 0.05 & |log2FC| > 0.5,2953
+FDR: B higher,1532
+FDR: A higher,1421
